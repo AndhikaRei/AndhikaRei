@@ -20,9 +20,11 @@ My name is Reihan Andhika Putra, you can call me Reihan. I am an informatics/com
 
 <h2> ⚙️ &nbsp; Github Stats</h2>
 <a href="https://github.com/AndhikaRei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndhikaRei&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaRei&&include_all_commits=true&count_private=true&theme=buefy&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndhikaRei&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaRei&include_all_commits=true&count_private=true&theme=buefy&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript" />
 </a>
+<a href="https://github.com/AVS1508">
+  
 
 <h2>🤝🏻 &nbsp;Connect with Me</h2>
 <p align="left">
@@ -33,17 +35,3 @@ My name is Reihan Andhika Putra, you can call me Reihan. I am an informatics/com
 <a href="https://facebook.com/reihan.andhika.5"><img src="https://img.shields.io/badge/-Reihan%20Andhika-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<!--
-**AndhikaRei/AndhikaRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
