@@ -21,7 +21,7 @@ My name is Reihan Andhika Putra, you can call me Reihan. I am an informatics/com
 <h2> ⚙️ &nbsp; Github Stats</h2>
 <a href="https://github.com/AndhikaRei">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndhikaRei&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaRei&include_all_commits=true&count_private=true&theme=buefy&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaRei&include_all_commits=true&count_private=true&theme=buefy&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript,Blade" />
 </a>
 <a href="https://github.com/AVS1508">
   
