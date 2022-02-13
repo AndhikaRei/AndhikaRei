@@ -8,12 +8,12 @@ My name is Reihan Andhika Putra, you can call me Reihan. I am an informatics/com
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=green)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)\
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0db7ed)&nbsp;
